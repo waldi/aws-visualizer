@@ -63,6 +63,7 @@ optional arguments:
 Install
 -------
 - brew install graphviz
+- brew install geos
 - pip install aws-visualizer
 
 Example
